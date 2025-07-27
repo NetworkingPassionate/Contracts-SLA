@@ -1,7 +1,7 @@
 # Contracts & SLAs (Service Level Agreements) 
 
->b<
-<b><b>
+
+<b> <b>
 # 🛡️ Cybersecurity Service Contract Demo
 
 This repository presents a simulated Statement of Work (SOW) for a hypothetical cybersecurity engagement. It’s designed to showcase how technical service agreements can be documented, organized, and shared professionally — perfect for portfolio use or educational reference.
